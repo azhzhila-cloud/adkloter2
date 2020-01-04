@@ -25,3 +25,9 @@ berikut screenshoot jawaban soal nomor 6 point A</br>
 
 <img src="https://user-images.githubusercontent.com/59494126/71765630-d318bd80-2f29-11ea-81e9-5e58a617d5e7.png" alt="6 a Quary" style="max-width:100%;">
 
+link reposity jawaban soal nomer 6 point A
+https://github.com/azhzhila-cloud/adkloter2/tree/master/Soal%20No%206/6a
+
+<h2>Nomor 6B</h2>
+Bisa dijalankan dengan menggunakan browser </br>
+download file folder 6b dan jalankan </br>
