@@ -31,3 +31,4 @@ https://github.com/azhzhila-cloud/adkloter2/tree/master/Soal%20No%206/6a
 <h2>Nomor 6B</h2>
 Bisa dijalankan dengan menggunakan browser </br>
 download file folder 6b dan jalankan </br>
+https://github.com/azhzhila-cloud/adkloter2/tree/master/Soal%20No%206/6b
